@@ -1,0 +1,14 @@
+C:\Users\emile\Desktop\C-sharp\Egna_Projekt\Grupp repetitionsuppgift 1\Bibliotekssystem\bin\Debug\net8.0\Books_Library.exe
+C:\Users\emile\Desktop\C-sharp\Egna_Projekt\Grupp repetitionsuppgift 1\Bibliotekssystem\bin\Debug\net8.0\Books_Library.deps.json
+C:\Users\emile\Desktop\C-sharp\Egna_Projekt\Grupp repetitionsuppgift 1\Bibliotekssystem\bin\Debug\net8.0\Books_Library.runtimeconfig.json
+C:\Users\emile\Desktop\C-sharp\Egna_Projekt\Grupp repetitionsuppgift 1\Bibliotekssystem\bin\Debug\net8.0\Books_Library.dll
+C:\Users\emile\Desktop\C-sharp\Egna_Projekt\Grupp repetitionsuppgift 1\Bibliotekssystem\bin\Debug\net8.0\Books_Library.pdb
+C:\Users\emile\Desktop\C-sharp\Egna_Projekt\Grupp repetitionsuppgift 1\Bibliotekssystem\obj\Debug\net8.0\Books_Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emile\Desktop\C-sharp\Egna_Projekt\Grupp repetitionsuppgift 1\Bibliotekssystem\obj\Debug\net8.0\Books_Library.AssemblyInfoInputs.cache
+C:\Users\emile\Desktop\C-sharp\Egna_Projekt\Grupp repetitionsuppgift 1\Bibliotekssystem\obj\Debug\net8.0\Books_Library.AssemblyInfo.cs
+C:\Users\emile\Desktop\C-sharp\Egna_Projekt\Grupp repetitionsuppgift 1\Bibliotekssystem\obj\Debug\net8.0\Books_Library.csproj.CoreCompileInputs.cache
+C:\Users\emile\Desktop\C-sharp\Egna_Projekt\Grupp repetitionsuppgift 1\Bibliotekssystem\obj\Debug\net8.0\Books_Library.dll
+C:\Users\emile\Desktop\C-sharp\Egna_Projekt\Grupp repetitionsuppgift 1\Bibliotekssystem\obj\Debug\net8.0\refint\Books_Library.dll
+C:\Users\emile\Desktop\C-sharp\Egna_Projekt\Grupp repetitionsuppgift 1\Bibliotekssystem\obj\Debug\net8.0\Books_Library.pdb
+C:\Users\emile\Desktop\C-sharp\Egna_Projekt\Grupp repetitionsuppgift 1\Bibliotekssystem\obj\Debug\net8.0\Books_Library.genruntimeconfig.cache
+C:\Users\emile\Desktop\C-sharp\Egna_Projekt\Grupp repetitionsuppgift 1\Bibliotekssystem\obj\Debug\net8.0\ref\Books_Library.dll
